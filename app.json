@@ -36,7 +36,7 @@
       "pages/user_phone/index",
       "pages/user_edit/index",
       "pages/user_sgin_list/index",
-      "pages/pays/pays",
+      "pages/pay/pay",
       "pages/noticeList/noticeList",
       "pages/noticeDetails/noticeDetails",
       "pages/college/college",
